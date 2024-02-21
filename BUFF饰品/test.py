@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2023/3/1 16:10
-# @Author : 刘鑫路
 # @File : app.py
 # @Software: PyCharm
 import requests
