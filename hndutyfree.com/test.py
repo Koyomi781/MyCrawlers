@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/8/27 9:36
-# @Author : 刘鑫路
 # @File : auto_start.py
 # @Software: PyCharm
 
