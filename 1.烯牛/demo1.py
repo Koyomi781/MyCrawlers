@@ -2,7 +2,7 @@
 # @Time    : 2023/4/26 9:11
 # @Name    : demo1.py
 # @email   : liu78103@gmail.com
-# @Author  : 刘鑫路
+
 import requests
 import execjs
 
