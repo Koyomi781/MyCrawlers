@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/7/29 16:28
-# @Author : 刘鑫路
 # @File : 数据可视化.py
 # @Software: PyCharm
 
