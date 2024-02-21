@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/8/26 20:26
-# @Author : 刘鑫路
 # @File : testdemo.py
 # @Software: PyCharm
 
